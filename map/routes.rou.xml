@@ -1,0 +1,9 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+   
+   <route id="eastbound" edges="E0 E1"/>
+   <route id="ped_xing" edges="E0 -E1"/>
+
+   <vType id="bicycle" vClass="bicycle" accel="0.8" decel="4.5" sigma="0.5" length="2" maxSpeed="5" color="0,1,0"/>
+
+   
+</routes>
