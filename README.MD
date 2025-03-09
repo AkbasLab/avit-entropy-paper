@@ -1,5 +1,5 @@
 # AV IT Entropy
-This repository cotains the source code used for our IEEE MOST 2025 submission "<u>Information Theory Based Quantitative Complexity Analysis for Autonomous Vehicle Safety Testing</u>".
+This repository cotains the source code used for our paper submission "<u>Information Theory Based Quantitative Complexity Analysis for Autonomous Vehicle Safety Testing</u>".
 
 This paper features a scenario example of an autonomous vehicle (DUT) interacting with other cars (FOE1, FOE2, and FOE3), a bicyclist (BIKE), and a pedestrian (PED).
 
